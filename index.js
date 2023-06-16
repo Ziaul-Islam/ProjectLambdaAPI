@@ -1,4 +1,4 @@
-const submitButton = document.getElementById('submit-button');
+const submitButton = document.getElementById('submit');
 
 submitButton.addEventListener('click', async () => {
   const name = document.getElementById('name').value;
